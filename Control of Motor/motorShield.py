@@ -1,10 +1,12 @@
 /**
- * MOTORSHIELD from Control of Motor exemple
- * 
- * This shows how to use an ESP8266 for control DC motor
 
+ * MOTORSHIELD from Control of Motor exemple
+ *
+ * This shows how to use an ESP8266 for control DC motor
+ *
  * Author: Tiago Hérique S. de Almeida
  * License: Apache License v2
+    
  */
 
 # -*- coding: utf-8 -*-
