@@ -1,4 +1,7 @@
+
+
 # -*- coding: utf-8 -*-
+
 """
     This module implements .
     :copyright: © 2018 by the Lindos team.
